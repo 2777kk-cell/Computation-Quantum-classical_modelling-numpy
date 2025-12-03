@@ -13,6 +13,8 @@ Prerequisites: Numpy
 | a random guid3         |      |0>            |
 |  .                     |                     |
 
+
+
         n qubits(logical(but fake) qubits
 
         
