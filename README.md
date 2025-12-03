@@ -5,6 +5,8 @@ A naive way of turning your digital computer into a Fake Quantum computer using 
 
 Prerequisites: Numpy
 
+A Quantum state of a qubit can be represented mathamatically using n-dimensional  Linear Algebra. We use Orthonormal basis vectors in order to represent a logical qubits.  
+
 
 | globally unique Id     | state vector        |
 | -----------------------| ------------------- |
