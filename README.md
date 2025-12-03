@@ -5,3 +5,14 @@ A naive way of turning your digital computer into a Fake Quantum computer using 
 
 Prerequisites: Numpy
 
+
+| globally unique Id     | state vector        |
+| -----------------------| ------------------- |
+| a random guid1         |      |0>            |
+| a random guid2         |      |0>            |
+| a random guid3         |      |0>            |
+|  .                     |                     |
+
+        n qubits(logical(but fake) qubits
+
+        
